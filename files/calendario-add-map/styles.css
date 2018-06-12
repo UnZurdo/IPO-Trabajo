@@ -18,7 +18,7 @@
   top:48px;
   width:367px;
   height:762px;
-  font-family:'Arial Negrita', 'Arial';
+  font-family:'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -45,7 +45,7 @@
   top:70px;
   width:22px;
   height:22px;
-  font-family:'Arial Negrita', 'Arial';
+  font-family:'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -72,7 +72,7 @@
   top:100px;
   width:367px;
   height:654px;
-  font-family:'Arial Negrita', 'Arial';
+  font-family:'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -99,7 +99,7 @@
   top:126px;
   width:320px;
   height:568px;
-  font-family:'Arial Negrita', 'Arial';
+  font-family:'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -126,7 +126,7 @@
   top:82px;
   width:9px;
   height:9px;
-  font-family:'Arial Negrita', 'Arial';
+  font-family:'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -153,7 +153,7 @@
   top:82px;
   width:9px;
   height:9px;
-  font-family:'Arial Negrita', 'Arial';
+  font-family:'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -320,7 +320,7 @@
   top:726px;
   width:14px;
   height:8px;
-  font-family:'Arial Negrita', 'Arial';
+  font-family:'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -547,7 +547,7 @@
   top:266px;
   width:224px;
   height:19px;
-  font-family:'Arial Negrita', 'Arial';
+  font-family:'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -572,7 +572,7 @@
   top:310px;
   width:186px;
   height:19px;
-  font-family:'Arial Negrita', 'Arial';
+  font-family:'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -598,7 +598,7 @@
   top:351px;
   width:210px;
   height:19px;
-  font-family:'Arial Negrita', 'Arial';
+  font-family:'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -623,7 +623,7 @@
   top:391px;
   width:220px;
   height:38px;
-  font-family:'Arial Negrita', 'Arial';
+  font-family:'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -685,6 +685,70 @@
   width:40px;
   visibility:hidden;
   word-wrap:break-word;
+}
+#u50 {
+  position:absolute;
+  left:404px;
+  top:719px;
+  width:12px;
+  height:10px;
+  -webkit-transform:rotate(323deg);
+  -moz-transform:rotate(323deg);
+  -ms-transform:rotate(323deg);
+  transform:rotate(323deg);
+}
+#u50_start {
+  position:absolute;
+  left:0px;
+  top:-5px;
+  width:18px;
+  height:20px;
+}
+#u50_end {
+  position:absolute;
+  left:-5px;
+  top:-5px;
+  width:18px;
+  height:20px;
+}
+#u50_line {
+  position:absolute;
+  left:0px;
+  top:5px;
+  width:12px;
+  height:1px;
+}
+#u51 {
+  position:absolute;
+  left:404px;
+  top:725px;
+  width:12px;
+  height:10px;
+  -webkit-transform:rotate(36deg);
+  -moz-transform:rotate(36deg);
+  -ms-transform:rotate(36deg);
+  transform:rotate(36deg);
+}
+#u51_start {
+  position:absolute;
+  left:0px;
+  top:-5px;
+  width:18px;
+  height:20px;
+}
+#u51_end {
+  position:absolute;
+  left:-5px;
+  top:-5px;
+  width:18px;
+  height:20px;
+}
+#u51_line {
+  position:absolute;
+  left:0px;
+  top:5px;
+  width:12px;
+  height:1px;
 }
 body.a {  background-color:rgba(255, 255, 255, 1);
   background-image:none;
@@ -894,4 +958,57 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 #u45.a {
 }
 #u47.a {
+}
+#u49.a {
+  position:absolute;
+  left:402px;
+  top:716px;
+  width:10px;
+  height:10px;
+}
+#u50.a {
+}
+#u50_start.a {
+  position:absolute;
+  left:0px;
+  top:-5px;
+  width:18px;
+  height:20px;
+}
+#u50_end.a {
+  position:absolute;
+  left:-5px;
+  top:-5px;
+  width:18px;
+  height:20px;
+}
+#u50_line.a {
+  position:absolute;
+  left:0px;
+  top:5px;
+  width:12px;
+  height:1px;
+}
+#u51.a {
+}
+#u51_start.a {
+  position:absolute;
+  left:0px;
+  top:-5px;
+  width:18px;
+  height:20px;
+}
+#u51_end.a {
+  position:absolute;
+  left:-5px;
+  top:-5px;
+  width:18px;
+  height:20px;
+}
+#u51_line.a {
+  position:absolute;
+  left:0px;
+  top:5px;
+  width:12px;
+  height:1px;
 }

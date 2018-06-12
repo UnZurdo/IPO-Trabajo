@@ -18,7 +18,7 @@
   top:48px;
   width:367px;
   height:762px;
-  font-family:'Arial Negrita', 'Arial';
+  font-family:'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -45,7 +45,7 @@
   top:70px;
   width:22px;
   height:22px;
-  font-family:'Arial Negrita', 'Arial';
+  font-family:'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -72,7 +72,7 @@
   top:100px;
   width:367px;
   height:654px;
-  font-family:'Arial Negrita', 'Arial';
+  font-family:'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -99,7 +99,7 @@
   top:126px;
   width:320px;
   height:568px;
-  font-family:'Arial Negrita', 'Arial';
+  font-family:'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -126,7 +126,7 @@
   top:82px;
   width:9px;
   height:9px;
-  font-family:'Arial Negrita', 'Arial';
+  font-family:'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -153,7 +153,7 @@
   top:82px;
   width:9px;
   height:9px;
-  font-family:'Arial Negrita', 'Arial';
+  font-family:'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -320,7 +320,7 @@
   top:726px;
   width:14px;
   height:8px;
-  font-family:'Arial Negrita', 'Arial';
+  font-family:'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -576,7 +576,7 @@
   top:0px;
   width:240px;
   height:30px;
-  font-family:'Arial Normal', 'Arial';
+  font-family:'Arial Regular', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -1001,7 +1001,7 @@
   top:556px;
   width:139px;
   height:54px;
-  font-family:'Arial Negrita', 'Arial';
+  font-family:'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -1046,6 +1046,92 @@
   width:40px;
   visibility:hidden;
   word-wrap:break-word;
+}
+#u82 {
+  position:absolute;
+  left:360px;
+  top:300px;
+  width:99px;
+  height:87px;
+}
+#u82_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:99px;
+  height:87px;
+}
+#u83 {
+  position:absolute;
+  left:2px;
+  top:36px;
+  width:95px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u85 {
+  position:absolute;
+  left:404px;
+  top:719px;
+  width:12px;
+  height:10px;
+  -webkit-transform:rotate(323deg);
+  -moz-transform:rotate(323deg);
+  -ms-transform:rotate(323deg);
+  transform:rotate(323deg);
+}
+#u85_start {
+  position:absolute;
+  left:0px;
+  top:-5px;
+  width:18px;
+  height:20px;
+}
+#u85_end {
+  position:absolute;
+  left:-5px;
+  top:-5px;
+  width:18px;
+  height:20px;
+}
+#u85_line {
+  position:absolute;
+  left:0px;
+  top:5px;
+  width:12px;
+  height:1px;
+}
+#u86 {
+  position:absolute;
+  left:404px;
+  top:725px;
+  width:12px;
+  height:10px;
+  -webkit-transform:rotate(36deg);
+  -moz-transform:rotate(36deg);
+  -ms-transform:rotate(36deg);
+  transform:rotate(36deg);
+}
+#u86_start {
+  position:absolute;
+  left:0px;
+  top:-5px;
+  width:18px;
+  height:20px;
+}
+#u86_end {
+  position:absolute;
+  left:-5px;
+  top:-5px;
+  width:18px;
+  height:20px;
+}
+#u86_line {
+  position:absolute;
+  left:0px;
+  top:5px;
+  width:12px;
+  height:1px;
 }
 body.a {  background-color:rgba(255, 255, 255, 1);
   background-image:none;
@@ -1238,7 +1324,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   top:0px;
   width:250px;
   height:30px;
-  font-family:'Arial Normal', 'Arial';
+  font-family:'Arial Regular', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -1291,4 +1377,59 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 #u78.a {
 }
 #u80.a {
+}
+#u82.a {
+}
+#u84.a {
+  position:absolute;
+  left:402px;
+  top:716px;
+  width:10px;
+  height:10px;
+}
+#u85.a {
+}
+#u85_start.a {
+  position:absolute;
+  left:0px;
+  top:-5px;
+  width:18px;
+  height:20px;
+}
+#u85_end.a {
+  position:absolute;
+  left:-5px;
+  top:-5px;
+  width:18px;
+  height:20px;
+}
+#u85_line.a {
+  position:absolute;
+  left:0px;
+  top:5px;
+  width:12px;
+  height:1px;
+}
+#u86.a {
+}
+#u86_start.a {
+  position:absolute;
+  left:0px;
+  top:-5px;
+  width:18px;
+  height:20px;
+}
+#u86_end.a {
+  position:absolute;
+  left:-5px;
+  top:-5px;
+  width:18px;
+  height:20px;
+}
+#u86_line.a {
+  position:absolute;
+  left:0px;
+  top:5px;
+  width:12px;
+  height:1px;
 }
