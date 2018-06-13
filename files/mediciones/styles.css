@@ -18,7 +18,7 @@
   top:20px;
   width:367px;
   height:762px;
-  font-family:'Arial Bold', 'Arial';
+  font-family:'Arial Negrita', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -45,7 +45,7 @@
   top:42px;
   width:22px;
   height:22px;
-  font-family:'Arial Bold', 'Arial';
+  font-family:'Arial Negrita', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -72,7 +72,7 @@
   top:72px;
   width:367px;
   height:654px;
-  font-family:'Arial Bold', 'Arial';
+  font-family:'Arial Negrita', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -99,7 +99,7 @@
   top:98px;
   width:320px;
   height:568px;
-  font-family:'Arial Bold', 'Arial';
+  font-family:'Arial Negrita', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -126,7 +126,7 @@
   top:54px;
   width:9px;
   height:9px;
-  font-family:'Arial Bold', 'Arial';
+  font-family:'Arial Negrita', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -153,7 +153,7 @@
   top:54px;
   width:9px;
   height:9px;
-  font-family:'Arial Bold', 'Arial';
+  font-family:'Arial Negrita', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -320,7 +320,7 @@
   top:698px;
   width:14px;
   height:8px;
-  font-family:'Arial Bold', 'Arial';
+  font-family:'Arial Negrita', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -452,7 +452,7 @@
   top:0px;
   width:300px;
   height:40px;
-  font-family:'Arial Regular', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -730,7 +730,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   top:0px;
   width:300px;
   height:40px;
-  font-family:'Arial Regular', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:14px;
